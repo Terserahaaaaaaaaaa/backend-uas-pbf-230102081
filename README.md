@@ -237,11 +237,3 @@ backend_rumahsakit/
 
 * Pastikan MySQL berjalan saat uji API
 * Gunakan `php spark routes` untuk melihat route aktif
-
----
-
-## 👨‍💻 Dibuat oleh
-
-**Prih Diantono Abda’u, M.Kom**
-UAS Praktikum Pemrograman Berbasis Framework – Genap 2024/2025
-Politeknik Negeri Cilacap
